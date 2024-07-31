@@ -1,0 +1,7 @@
+selenium
+beautifulsoup4
+httpx[http2]
+parsel
+nested_lookup
+brotli
+brotlicffi
